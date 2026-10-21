@@ -1,6 +1,7 @@
 {
  "work": "玉葉和歌集",
  "work_id": "kt-gyokuyo",
+ "repo": "kumoi-no-fumigura/gyokuyo-wakashu",
  "yomi": "ぎょくようわかしゅう",
  "category": "勅撰集",
  "kind": "kashu",
@@ -33633,6 +33634,5 @@
    "text": "立ちかへる世と思はゞや神風やみもすそ川の末のしら波",
    "sachu": ""
   }
- ],
- "repo": "kumoi-no-fumigura/gyokuyo-wakashu"
+ ]
 }
